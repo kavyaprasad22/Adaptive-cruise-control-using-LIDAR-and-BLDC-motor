@@ -12,3 +12,5 @@ Software Requirements:<br/>
 S32 Design studio for ARM<br/>
 NXP MBDT Toolbox<br/>
 MATLAB<br/>
+
+Video of our working prototype: https://youtu.be/jsxPeRWvAOA
